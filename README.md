@@ -8,8 +8,8 @@ My name is David Badura, I'm a freelance software engineer from germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal (2 days ago)
-- [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) - psalm plugin for patchlevel/event-sourcing (5 days ago)
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal (3 days ago)
+- [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) - psalm plugin for patchlevel/event-sourcing (6 days ago)
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal (1 week ago)
 - [DavidBadura/Fixtures](https://github.com/DavidBadura/Fixtures) - A library to load yaml, json or php fixtures. Easy extendable, resolve object dependency and validate objects. (1 month ago)
 - [patchlevel/enum](https://github.com/patchlevel/enum) - Small lightweight library to create enum in PHP without SPLEnum and strict comparisons allowed. (2 months ago)
