@@ -22,7 +22,7 @@ My name is David Badura, I'm a freelance software engineer from germany.
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([1.2.1](https://github.com/patchlevel/event-sourcing/releases/tag/1.2.1), 1 month ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
 - [DavidBadura/Fixtures](https://github.com/DavidBadura/Fixtures) ([1.3.0](https://github.com/DavidBadura/Fixtures/releases/tag/1.3.0), 2 months ago) - A library to load yaml, json or php fixtures. Easy extendable, resolve object dependency and validate objects.
 - [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) ([1.0.0](https://github.com/patchlevel/event-sourcing-psalm-plugin/releases/tag/1.0.0), 3 months ago) - psalm plugin for patchlevel/event-sourcing
-- [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) ([1.1.1](https://github.com/patchlevel/coding-standard/releases/tag/1.1.1), 3 months ago) - The Patchlevel coding standard.
+- [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) ([1.1.1](https://github.com/patchlevel/coding-standard/releases/tag/1.1.1), 4 months ago) - The Patchlevel coding standard.
 
 #### 📫 How to reach me
 
