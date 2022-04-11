@@ -8,11 +8,11 @@ My name is David Badura, I'm a freelance software engineer from germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) - psalm plugin for patchlevel/event-sourcing (1 week ago)
+- [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) - psalm plugin for patchlevel/event-sourcing (2 weeks ago)
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal (2 weeks ago)
 - [patchlevel/.github](https://github.com/patchlevel/.github) -  (2 weeks ago)
 - [DavidBadura/orangedb](https://github.com/DavidBadura/orangedb) - :orange_book: Super Fast Readonly Filesystem Database (2 weeks ago)
-- [patchlevel/enum](https://github.com/patchlevel/enum) - Small lightweight library to create enum in PHP without SPLEnum and strict comparisons allowed. (2 weeks ago)
+- [patchlevel/enum](https://github.com/patchlevel/enum) - Small lightweight library to create enum in PHP without SPLEnum and strict comparisons allowed. (3 weeks ago)
 
 ---
 
