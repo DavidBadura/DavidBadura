@@ -18,8 +18,8 @@ My name is David Badura, I'm a freelance software engineer from germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([2.0.0-beta1](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/2.0.0-beta1), 3 days ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([2.0.0-beta6](https://github.com/patchlevel/event-sourcing/releases/tag/2.0.0-beta6), 3 days ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([2.0.0-beta1](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/2.0.0-beta1), 4 days ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([2.0.0-beta6](https://github.com/patchlevel/event-sourcing/releases/tag/2.0.0-beta6), 4 days ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
 - [DavidBadura/Fixtures](https://github.com/DavidBadura/Fixtures) ([1.3.2](https://github.com/DavidBadura/Fixtures/releases/tag/1.3.2), 3 weeks ago) - A library to load yaml, json or php fixtures. Easy extendable, resolve object dependency and validate objects.
 - [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) ([1.0.0](https://github.com/patchlevel/event-sourcing-psalm-plugin/releases/tag/1.0.0), 5 months ago) - psalm plugin for patchlevel/event-sourcing
 - [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) ([1.1.1](https://github.com/patchlevel/coding-standard/releases/tag/1.1.1), 6 months ago) - The Patchlevel coding standard.
