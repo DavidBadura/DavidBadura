@@ -8,7 +8,7 @@ My name is David Badura, I'm a freelance software engineer from germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - PHP library that helps to map any input into a strongly-typed value object structure. (4 days ago)
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - PHP library that helps to map any input into a strongly-typed value object structure. (5 days ago)
 - [DavidBadura/Fixtures](https://github.com/DavidBadura/Fixtures) - A library to load yaml, json or php fixtures. Easy extendable, resolve object dependency and validate objects. (1 month ago)
 - [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) - psalm plugin for patchlevel/event-sourcing (2 months ago)
 - [patchlevel/.github](https://github.com/patchlevel/.github) -  (2 months ago)
