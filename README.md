@@ -8,11 +8,11 @@ My name is David Badura, I'm a freelance software engineer from germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [DavidBadura/markdown-builder](https://github.com/DavidBadura/markdown-builder) - A simple markdown builder (6 days ago)
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal (1 day ago)
+- [DavidBadura/markdown-builder](https://github.com/DavidBadura/markdown-builder) - A simple markdown builder (1 week ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - PHP library that helps to map any input into a strongly-typed value object structure. (1 week ago)
 - [DavidBadura/Fixtures](https://github.com/DavidBadura/Fixtures) - A library to load yaml, json or php fixtures. Easy extendable, resolve object dependency and validate objects. (1 month ago)
 - [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) - psalm plugin for patchlevel/event-sourcing (2 months ago)
-- [patchlevel/.github](https://github.com/patchlevel/.github) -  (2 months ago)
 
 ---
 
