@@ -12,7 +12,7 @@ My name is David Badura, I'm a freelance software engineer from germany.
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal (3 weeks ago)
 - [DavidBadura/FakerMarkdownGenerator](https://github.com/DavidBadura/FakerMarkdownGenerator) - Generate valid, random markdown. (1 month ago)
 - [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) - psalm plugin for patchlevel/event-sourcing (3 months ago)
-- [DavidBadura/symfony-search-type-bug](https://github.com/DavidBadura/symfony-search-type-bug) -  (3 months ago)
+- [DavidBadura/symfony-search-type-bug](https://github.com/DavidBadura/symfony-search-type-bug) -  (4 months ago)
 
 ---
 
