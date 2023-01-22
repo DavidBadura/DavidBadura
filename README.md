@@ -18,11 +18,11 @@ My name is David Badura, I'm a freelance software engineer from germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) ([0.17.1](https://github.com/CuyZ/Valinor/releases/tag/0.17.1), 3 days ago) - PHP library that helps to map any input into a strongly-typed value object structure.
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) ([0.17.1](https://github.com/CuyZ/Valinor/releases/tag/0.17.1), 4 days ago) - PHP library that helps to map any input into a strongly-typed value object structure.
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([2.1.0](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/2.1.0), 1 month ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([2.1.0](https://github.com/patchlevel/event-sourcing/releases/tag/2.1.0), 1 month ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
 - [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) ([2.0.1](https://github.com/patchlevel/event-sourcing-psalm-plugin/releases/tag/2.0.1), 1 month ago) - psalm plugin for patchlevel/event-sourcing
-- [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) ([1.2.0](https://github.com/patchlevel/coding-standard/releases/tag/1.2.0), 6 months ago) - The Patchlevel coding standard.
+- [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) ([1.2.0](https://github.com/patchlevel/coding-standard/releases/tag/1.2.0), 7 months ago) - The Patchlevel coding standard.
 
 #### 📫 How to reach me
 
