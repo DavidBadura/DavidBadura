@@ -8,11 +8,11 @@ My name is David Badura, I'm a freelance software engineer from germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [brainbits/functional-test-helpers](https://github.com/brainbits/functional-test-helpers) -  (1 week ago)
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal (1 week ago)
-- [DavidBadura/environment](https://github.com/DavidBadura/environment) -  (1 week ago)
-- [patchlevel/event-sourcing-psr-container](https://github.com/patchlevel/event-sourcing-psr-container) - patchlevel/event-sourcing factories for PSR-11 containers (3 weeks ago)
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal (1 month ago)
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal (1 day ago)
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal (1 day ago)
+- [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) - psalm plugin for patchlevel/event-sourcing (1 day ago)
+- [DavidBadura/markdown-builder](https://github.com/DavidBadura/markdown-builder) - A simple markdown builder (1 day ago)
+- [patchlevel/event-sourcing-psr-container](https://github.com/patchlevel/event-sourcing-psr-container) - patchlevel/event-sourcing factories for PSR-11 containers (1 day ago)
 
 ---
 
