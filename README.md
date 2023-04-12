@@ -8,7 +8,7 @@ My name is David Badura, I'm a freelance software engineer from germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [async-aws/aws](https://github.com/async-aws/aws) - AWS SDK with readable code and async responses (4 days ago)
+- [async-aws/aws](https://github.com/async-aws/aws) - AWS SDK with readable code and async responses (5 days ago)
 - [patchlevel/hydrator](https://github.com/patchlevel/hydrator) -  (2 weeks ago)
 - [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) - The Patchlevel coding standard. (4 weeks ago)
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal (1 month ago)
