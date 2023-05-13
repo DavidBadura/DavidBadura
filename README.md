@@ -11,7 +11,7 @@ My name is David Badura, I'm a freelance software engineer from germany.
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal (1 week ago)
 - [async-aws/aws](https://github.com/async-aws/aws) - AWS SDK with readable code and async responses (1 month ago)
 - [patchlevel/hydrator](https://github.com/patchlevel/hydrator) -  (1 month ago)
-- [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) - The Patchlevel coding standard. (1 month ago)
+- [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) - The Patchlevel coding standard. (2 months ago)
 - [patchlevel/php](https://github.com/patchlevel/php) -  (3 months ago)
 
 ---
