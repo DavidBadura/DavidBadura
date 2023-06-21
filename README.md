@@ -12,7 +12,7 @@ My name is David Badura, I'm a freelance software engineer from germany.
 - [patchlevel/.github](https://github.com/patchlevel/.github) -  (2 weeks ago)
 - [patchlevel/hydrator](https://github.com/patchlevel/hydrator) -  (2 weeks ago)
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal (2 weeks ago)
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal (4 weeks ago)
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal (1 month ago)
 
 ---
 
