@@ -18,7 +18,7 @@ My name is David Badura, I'm a freelance software engineer from germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.0.0-beta4](https://github.com/patchlevel/event-sourcing/releases/tag/3.0.0-beta4), 1 day ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.0.0-beta4](https://github.com/patchlevel/event-sourcing/releases/tag/3.0.0-beta4), 2 days ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.0.0-beta2](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.0.0-beta2), 1 week ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
 - [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) ([1.3.0](https://github.com/patchlevel/coding-standard/releases/tag/1.3.0), 2 months ago) - The Patchlevel coding standard.
 - [brainbits/functional-test-helpers](https://github.com/brainbits/functional-test-helpers) ([4.11.0](https://github.com/brainbits/functional-test-helpers/releases/tag/4.11.0), 3 months ago) - A collection of test helper traits for symfony projects.
