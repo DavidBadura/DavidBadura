@@ -9,16 +9,16 @@ My name is David Badura, I'm a freelance software engineer from germany.
 #### 👷 Check out what I'm currently working on
 
 - [patchlevel/php](https://github.com/patchlevel/php) -  (1 week ago)
-- [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) - psalm plugin for patchlevel/event-sourcing (1 week ago)
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal (1 week ago)
-- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) -  (1 week ago)
-- [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) - The Patchlevel coding standard. (1 week ago)
+- [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) - psalm plugin for patchlevel/event-sourcing (2 weeks ago)
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal (2 weeks ago)
+- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) -  (2 weeks ago)
+- [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) - The Patchlevel coding standard. (2 weeks ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.0.0-beta4](https://github.com/patchlevel/event-sourcing/releases/tag/3.0.0-beta4), 4 weeks ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.0.0-beta4](https://github.com/patchlevel/event-sourcing/releases/tag/3.0.0-beta4), 1 month ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.0.0-beta2](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.0.0-beta2), 1 month ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
 - [patchlevel/coding-standard](https://github.com/patchlevel/coding-standard) ([1.3.0](https://github.com/patchlevel/coding-standard/releases/tag/1.3.0), 3 months ago) - The Patchlevel coding standard.
 - [brainbits/functional-test-helpers](https://github.com/brainbits/functional-test-helpers) ([4.11.0](https://github.com/brainbits/functional-test-helpers/releases/tag/4.11.0), 4 months ago) - A collection of test helper traits for symfony projects.
