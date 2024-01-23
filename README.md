@@ -18,7 +18,7 @@ My name is David Badura, I'm a freelance software engineer from germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) ([3.0.0-rc1](https://github.com/patchlevel/event-sourcing-psalm-plugin/releases/tag/3.0.0-rc1), 4 days ago) - psalm plugin for patchlevel/event-sourcing
+- [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) ([3.0.0-rc1](https://github.com/patchlevel/event-sourcing-psalm-plugin/releases/tag/3.0.0-rc1), 5 days ago) - psalm plugin for patchlevel/event-sourcing
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.0.0-rc2](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.0.0-rc2), 1 week ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.0.0-rc3](https://github.com/patchlevel/event-sourcing/releases/tag/3.0.0-rc3), 1 week ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
 - [patchlevel/worker](https://github.com/patchlevel/worker) ([1.1.0](https://github.com/patchlevel/worker/releases/tag/1.1.0), 1 month ago) - Gives the opportunity to build a stable worker that terminates properly when limits are exceeded.
