@@ -18,8 +18,8 @@ My name is David Badura, I'm a freelance software engineer from germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.0.0-rc3](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.0.0-rc3), 2 days ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.0.0-rc4](https://github.com/patchlevel/event-sourcing/releases/tag/3.0.0-rc4), 4 days ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.0.0-rc3](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.0.0-rc3), 3 days ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.0.0-rc4](https://github.com/patchlevel/event-sourcing/releases/tag/3.0.0-rc4), 5 days ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
 - [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) ([3.0.0-rc1](https://github.com/patchlevel/event-sourcing-psalm-plugin/releases/tag/3.0.0-rc1), 1 week ago) - psalm plugin for patchlevel/event-sourcing
 - [patchlevel/worker](https://github.com/patchlevel/worker) ([1.1.0](https://github.com/patchlevel/worker/releases/tag/1.1.0), 1 month ago) - Gives the opportunity to build a stable worker that terminates properly when limits are exceeded.
 - [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([1.1.0](https://github.com/patchlevel/hydrator/releases/tag/1.1.0), 1 month ago) - With this library you can hydrate objects from array into objects and back again. 
