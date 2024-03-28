@@ -18,9 +18,9 @@ My name is David Badura, I'm a freelance software engineer from germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) ([2.2.0](https://github.com/patchlevel/event-sourcing-psalm-plugin/releases/tag/2.2.0), 1 day ago) - psalm plugin for patchlevel/event-sourcing
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.0.0-rc8](https://github.com/patchlevel/event-sourcing/releases/tag/3.0.0-rc8), 1 day ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
+- [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) ([2.2.0](https://github.com/patchlevel/event-sourcing-psalm-plugin/releases/tag/2.2.0), 2 days ago) - psalm plugin for patchlevel/event-sourcing
 - [patchlevel/worker](https://github.com/patchlevel/worker) ([1.2.0](https://github.com/patchlevel/worker/releases/tag/1.2.0), 2 weeks ago) - Gives the opportunity to build a stable worker that terminates properly when limits are exceeded.
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([2.3.2](https://github.com/patchlevel/event-sourcing/releases/tag/2.3.2), 2 weeks ago) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.0.0-rc7](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.0.0-rc7), 1 month ago) - A lightweight but also all-inclusive event sourcing bundle with a focus on developer experience and based on doctrine dbal
 - [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([1.2.0](https://github.com/patchlevel/hydrator/releases/tag/1.2.0), 1 month ago) - With this library you can hydrate objects from array into objects and back again. 
 
