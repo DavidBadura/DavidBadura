@@ -18,7 +18,7 @@ My name is David Badura, I'm a freelance software engineer from germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.0.2](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.0.2), 1 month ago) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.0.2](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.0.2), 2 months ago) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.0.0](https://github.com/patchlevel/event-sourcing/releases/tag/3.0.0), 2 months ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
 - [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([1.3.2](https://github.com/patchlevel/hydrator/releases/tag/1.3.2), 2 months ago) - With this library you can hydrate objects from array into objects and back again. 
 - [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) ([2.2.0](https://github.com/patchlevel/event-sourcing-psalm-plugin/releases/tag/2.2.0), 3 months ago) - psalm plugin for patchlevel/event-sourcing
