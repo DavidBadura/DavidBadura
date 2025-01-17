@@ -9,8 +9,8 @@ My name is David Badura, I'm a freelance software engineer from germany.
 #### 👷 Check out what I'm currently working on
 
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience. (1 day ago)
-- [patchlevel/event-sourcing-admin-bundle](https://github.com/patchlevel/event-sourcing-admin-bundle) - This bundle provides a simple admin interface for the patchlevel/event-sourcing-bundle. (1 day ago)
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (1 day ago)
+- [patchlevel/event-sourcing-admin-bundle](https://github.com/patchlevel/event-sourcing-admin-bundle) - This bundle provides a simple admin interface for the patchlevel/event-sourcing-bundle. (2 days ago)
 - [patchlevel/hydrator](https://github.com/patchlevel/hydrator) - With this library you can hydrate objects from array into objects and back again.  (2 weeks ago)
 - [patchlevel/php](https://github.com/patchlevel/php) -  (1 month ago)
 
