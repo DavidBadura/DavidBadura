@@ -21,7 +21,7 @@ My name is David Badura, I'm a freelance software engineer from germany.
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.7.2](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.7.2), 1 week ago) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.8.0](https://github.com/patchlevel/event-sourcing/releases/tag/3.8.0), 1 week ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
 - [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([1.6.0](https://github.com/patchlevel/hydrator/releases/tag/1.6.0), 3 weeks ago) - With this library you can hydrate objects from array into objects and back again. 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.2](https://github.com/symfony/symfony/releases/tag/v7.2.2), 3 weeks ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.2](https://github.com/symfony/symfony/releases/tag/v7.2.2), 4 weeks ago) - The Symfony PHP framework
 - [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) ([1.0.0](https://github.com/patchlevel/laravel-event-sourcing/releases/tag/1.0.0), 1 month ago) - An event sourcing laravel package, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
 
 #### 📫 How to reach me
