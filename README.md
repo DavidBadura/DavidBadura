@@ -8,8 +8,8 @@ My name is David Badura, I'm a freelance software engineer from germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [patchlevel/worker](https://github.com/patchlevel/worker) - Gives the opportunity to build a stable worker that terminates properly when limits are exceeded. (1 day ago)
-- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) - With this library you can hydrate objects from array into objects and back again.  (1 day ago)
+- [patchlevel/worker](https://github.com/patchlevel/worker) - Gives the opportunity to build a stable worker that terminates properly when limits are exceeded. (2 days ago)
+- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) - With this library you can hydrate objects from array into objects and back again.  (2 days ago)
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience. (1 week ago)
 - [patchlevel/event-sourcing-admin-bundle](https://github.com/patchlevel/event-sourcing-admin-bundle) - This bundle provides a simple admin interface for the patchlevel/event-sourcing-bundle. (1 week ago)
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (1 week ago)
@@ -18,11 +18,11 @@ My name is David Badura, I'm a freelance software engineer from germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [patchlevel/worker](https://github.com/patchlevel/worker) ([1.3.0](https://github.com/patchlevel/worker/releases/tag/1.3.0), 1 day ago) - Gives the opportunity to build a stable worker that terminates properly when limits are exceeded.
-- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([1.7.0](https://github.com/patchlevel/hydrator/releases/tag/1.7.0), 1 day ago) - With this library you can hydrate objects from array into objects and back again. 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.3](https://github.com/symfony/symfony/releases/tag/v7.2.3), 1 day ago) - The Symfony PHP framework
+- [patchlevel/worker](https://github.com/patchlevel/worker) ([1.3.0](https://github.com/patchlevel/worker/releases/tag/1.3.0), 2 days ago) - Gives the opportunity to build a stable worker that terminates properly when limits are exceeded.
+- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([1.7.0](https://github.com/patchlevel/hydrator/releases/tag/1.7.0), 2 days ago) - With this library you can hydrate objects from array into objects and back again. 
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.7.2](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.7.2), 1 week ago) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.8.0](https://github.com/patchlevel/event-sourcing/releases/tag/3.8.0), 1 week ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.2](https://github.com/symfony/symfony/releases/tag/v7.2.2), 4 weeks ago) - The Symfony PHP framework
 
 #### 📫 How to reach me
 
