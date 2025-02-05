@@ -18,7 +18,7 @@ My name is David Badura, I'm a freelance software engineer from germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.3](https://github.com/symfony/symfony/releases/tag/v7.2.3), 6 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.3](https://github.com/symfony/symfony/releases/tag/v7.2.3), 1 week ago) - The Symfony PHP framework
 - [patchlevel/worker](https://github.com/patchlevel/worker) ([1.3.0](https://github.com/patchlevel/worker/releases/tag/1.3.0), 1 week ago) - Gives the opportunity to build a stable worker that terminates properly when limits are exceeded.
 - [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([1.7.0](https://github.com/patchlevel/hydrator/releases/tag/1.7.0), 1 week ago) - With this library you can hydrate objects from array into objects and back again. 
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.7.2](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.7.2), 2 weeks ago) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
