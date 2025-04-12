@@ -18,10 +18,10 @@ My name is David Badura, I'm a freelance software engineer from germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([1.8.0](https://github.com/patchlevel/hydrator/releases/tag/1.8.0), 1 day ago) - With this library you can hydrate objects from array into objects and back again. 
 - [home-assistant/core](https://github.com/home-assistant/core) ([2025.4.1](https://github.com/home-assistant/core/releases/tag/2025.4.1), 1 week ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.5](https://github.com/symfony/symfony/releases/tag/v7.2.5), 2 weeks ago) - The Symfony PHP framework
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.10.4](https://github.com/patchlevel/event-sourcing/releases/tag/3.10.4), 3 weeks ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
-- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([1.7.2](https://github.com/patchlevel/hydrator/releases/tag/1.7.2), 1 month ago) - With this library you can hydrate objects from array into objects and back again. 
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.10.0](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.10.0), 1 month ago) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
 
 #### 📫 How to reach me
