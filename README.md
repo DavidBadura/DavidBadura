@@ -8,8 +8,8 @@ My name is David Badura, I'm a freelance software engineer from germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) - With this library you can hydrate objects from array into objects and back again.  (1 day ago)
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience. (5 days ago)
+- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) - This library enables seamless hydration of objects to arrays—and back again. It’s optimized for both developer experience (DX) and performance. (1 day ago)
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience. (6 days ago)
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (1 week ago)
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (3 weeks ago)
 - [patchlevel/event-sourcing-symfony](https://github.com/patchlevel/event-sourcing-symfony) -  (1 month ago)
@@ -18,10 +18,10 @@ My name is David Badura, I'm a freelance software engineer from germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2025.4.3](https://github.com/home-assistant/core/releases/tag/2025.4.3), 1 day ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([1.9.0](https://github.com/patchlevel/hydrator/releases/tag/1.9.0), 1 day ago) - With this library you can hydrate objects from array into objects and back again. 
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.11.0](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.11.0), 2 days ago) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.11.0](https://github.com/patchlevel/event-sourcing/releases/tag/3.11.0), 5 days ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
+- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([1.10.0](https://github.com/patchlevel/hydrator/releases/tag/1.10.0), 1 day ago) - This library enables seamless hydration of objects to arrays—and back again. It’s optimized for both developer experience (DX) and performance.
+- [home-assistant/core](https://github.com/home-assistant/core) ([2025.4.3](https://github.com/home-assistant/core/releases/tag/2025.4.3), 2 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.11.0](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.11.0), 3 days ago) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.11.0](https://github.com/patchlevel/event-sourcing/releases/tag/3.11.0), 6 days ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.5](https://github.com/symfony/symfony/releases/tag/v7.2.5), 3 weeks ago) - The Symfony PHP framework
 
 #### 📫 How to reach me
