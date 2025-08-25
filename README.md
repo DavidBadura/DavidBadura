@@ -8,7 +8,7 @@ My name is David Badura, I'm a freelance software engineer from germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (2 days ago)
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (3 days ago)
 - [patchlevel/event-sourcing-phpstan-extension](https://github.com/patchlevel/event-sourcing-phpstan-extension) -  (1 week ago)
 - [patchlevel/php](https://github.com/patchlevel/php) -  (1 week ago)
 - [patchlevel/hydrator](https://github.com/patchlevel/hydrator) - This library enables seamless hydration of objects to arrays—and back again. It’s optimized for both developer experience (DX) and performance. (1 week ago)
@@ -18,7 +18,7 @@ My name is David Badura, I'm a freelance software engineer from germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2025.8.3](https://github.com/home-assistant/core/releases/tag/2025.8.3), 3 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/core](https://github.com/home-assistant/core) ([2025.8.3](https://github.com/home-assistant/core/releases/tag/2025.8.3), 4 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [patchlevel/event-sourcing-phpstan-extension](https://github.com/patchlevel/event-sourcing-phpstan-extension) ([1.0.0](https://github.com/patchlevel/event-sourcing-phpstan-extension/releases/tag/1.0.0), 1 week ago) - 
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.2](https://github.com/symfony/symfony/releases/tag/v7.3.2), 3 weeks ago) - The Symfony PHP framework
 - [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([1.11.0](https://github.com/patchlevel/hydrator/releases/tag/1.11.0), 2 months ago) - This library enables seamless hydration of objects to arrays—and back again. It’s optimized for both developer experience (DX) and performance.
