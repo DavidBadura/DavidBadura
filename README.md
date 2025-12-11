@@ -18,10 +18,10 @@ My name is David Badura, I'm a freelance software engineer from germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2025.12.2](https://github.com/home-assistant/core/releases/tag/2025.12.2), 2 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [patchlevel/event-sourcing-phpunit](https://github.com/patchlevel/event-sourcing-phpunit) ([1.3.0](https://github.com/patchlevel/event-sourcing-phpunit/releases/tag/1.3.0), 4 days ago) - PHPUnit testing utilities for patchlevel/event-sourcing
-- [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) ([3.2.0](https://github.com/patchlevel/event-sourcing-psalm-plugin/releases/tag/3.2.0), 5 days ago) - psalm plugin for patchlevel/event-sourcing
-- [patchlevel/event-sourcing-phpstan-extension](https://github.com/patchlevel/event-sourcing-phpstan-extension) ([1.1.0](https://github.com/patchlevel/event-sourcing-phpstan-extension/releases/tag/1.1.0), 6 days ago) - 
+- [home-assistant/core](https://github.com/home-assistant/core) ([2025.12.2](https://github.com/home-assistant/core/releases/tag/2025.12.2), 3 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [patchlevel/event-sourcing-phpunit](https://github.com/patchlevel/event-sourcing-phpunit) ([1.3.0](https://github.com/patchlevel/event-sourcing-phpunit/releases/tag/1.3.0), 5 days ago) - PHPUnit testing utilities for patchlevel/event-sourcing
+- [patchlevel/event-sourcing-psalm-plugin](https://github.com/patchlevel/event-sourcing-psalm-plugin) ([3.2.0](https://github.com/patchlevel/event-sourcing-psalm-plugin/releases/tag/3.2.0), 6 days ago) - psalm plugin for patchlevel/event-sourcing
+- [patchlevel/event-sourcing-phpstan-extension](https://github.com/patchlevel/event-sourcing-phpstan-extension) ([1.1.0](https://github.com/patchlevel/event-sourcing-phpstan-extension/releases/tag/1.1.0), 1 week ago) - 
 - [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) ([1.2.0](https://github.com/patchlevel/laravel-event-sourcing/releases/tag/1.2.0), 1 week ago) - An event sourcing laravel package, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
 
 #### 📫 How to reach me
