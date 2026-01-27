@@ -18,7 +18,7 @@ My name is David Badura, I'm a freelance software engineer from germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.1.3](https://github.com/home-assistant/core/releases/tag/2026.1.3), 3 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.1.3](https://github.com/home-assistant/core/releases/tag/2026.1.3), 4 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) ([1.3.0](https://github.com/patchlevel/laravel-event-sourcing/releases/tag/1.3.0), 2 weeks ago) - An event sourcing laravel package, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.15.0](https://github.com/patchlevel/event-sourcing/releases/tag/3.15.0), 2 weeks ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.14.1](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.14.1), 1 month ago) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
