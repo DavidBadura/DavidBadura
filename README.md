@@ -18,7 +18,7 @@ My name is David Badura, I'm a freelance software engineer from germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.3.3](https://github.com/home-assistant/core/releases/tag/2026.3.3), 3 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.3.3](https://github.com/home-assistant/core/releases/tag/2026.3.3), 4 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([1.18.0](https://github.com/patchlevel/hydrator/releases/tag/1.18.0), 1 week ago) - This library enables seamless hydration of objects to arrays—and back again. It’s optimized for both developer experience (DX) and performance.
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.18.0](https://github.com/patchlevel/event-sourcing/releases/tag/3.18.0), 4 weeks ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
 - [patchlevel/event-sourcing-phpunit](https://github.com/patchlevel/event-sourcing-phpunit) ([1.6.0](https://github.com/patchlevel/event-sourcing-phpunit/releases/tag/1.6.0), 1 month ago) - PHPUnit testing utilities for patchlevel/event-sourcing
