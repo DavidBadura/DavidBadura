@@ -18,7 +18,7 @@ My name is David Badura, I'm a freelance software engineer from germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) ([1.4.0](https://github.com/patchlevel/laravel-event-sourcing/releases/tag/1.4.0), 6 days ago) - An event sourcing laravel package, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
+- [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) ([1.4.0](https://github.com/patchlevel/laravel-event-sourcing/releases/tag/1.4.0), 1 week ago) - An event sourcing laravel package, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.16.0](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.16.0), 1 week ago) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
 - [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([1.23.0](https://github.com/patchlevel/hydrator/releases/tag/1.23.0), 1 week ago) - This library enables seamless hydration of objects to arrays—and back again. It’s optimized for both developer experience (DX) and performance.
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.19.1](https://github.com/patchlevel/event-sourcing/releases/tag/3.19.1), 1 week ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
