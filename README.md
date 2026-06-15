@@ -8,17 +8,17 @@ My name is David Badura, I'm a freelance software engineer from germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) - This library enables seamless hydration of objects to arrays—and back again. It’s optimized for both developer experience (DX) and performance. (1 day ago)
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (1 day ago)
-- [patchlevel/php](https://github.com/patchlevel/php) -  (1 day ago)
-- [patchlevel/worker](https://github.com/patchlevel/worker) - Gives the opportunity to build a stable worker that terminates properly when limits are exceeded. (3 days ago)
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (2 days ago)
+- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) - This library enables seamless hydration of objects to arrays—and back again. It’s optimized for both developer experience (DX) and performance. (2 days ago)
+- [patchlevel/php](https://github.com/patchlevel/php) -  (2 days ago)
+- [patchlevel/worker](https://github.com/patchlevel/worker) - Gives the opportunity to build a stable worker that terminates properly when limits are exceeded. (4 days ago)
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience. (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([1.24.0](https://github.com/patchlevel/hydrator/releases/tag/1.24.0), 1 day ago) - This library enables seamless hydration of objects to arrays—and back again. It’s optimized for both developer experience (DX) and performance.
+- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) ([1.24.0](https://github.com/patchlevel/hydrator/releases/tag/1.24.0), 2 days ago) - This library enables seamless hydration of objects to arrays—and back again. It’s optimized for both developer experience (DX) and performance.
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.17.0](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.17.0), 1 week ago) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
 - [patchlevel/rango](https://github.com/patchlevel/rango) ([1.0.0](https://github.com/patchlevel/rango/releases/tag/1.0.0), 1 month ago) - Rango is a high-performance PHP library that reimplements the MongoDB PHP API on top of PostgreSQL using the power of JSONB
 - [patchlevel/event-sourcing-phpstan-extension](https://github.com/patchlevel/event-sourcing-phpstan-extension) ([1.2.0](https://github.com/patchlevel/event-sourcing-phpstan-extension/releases/tag/1.2.0), 1 month ago) - phpstan extension for event-sourcing library.
