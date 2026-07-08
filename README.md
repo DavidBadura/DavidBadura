@@ -8,9 +8,9 @@ My name is David Badura, I'm a freelance software engineer from germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience. (2 weeks ago)
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (2 weeks ago)
 - [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) - An event sourcing laravel package, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience. (2 weeks ago)
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (2 weeks ago)
+- [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience. (2 weeks ago)
 - [patchlevel/odm](https://github.com/patchlevel/odm) - Patchlevel ODM is a lightweight Object Document Mapper (ODM) for PHP that works with PostgreSQL (via patchlevel/rango) and MongoDB (3 weeks ago)
 - [patchlevel/hydrator](https://github.com/patchlevel/hydrator) - This library enables seamless hydration of objects to arrays—and back again. It’s optimized for both developer experience (DX) and performance. (3 weeks ago)
 
