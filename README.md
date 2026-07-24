@@ -18,7 +18,7 @@ My name is David Badura, I'm a freelance software engineer from germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [patchlevel/event-sourcing-phpstan-extension](https://github.com/patchlevel/event-sourcing-phpstan-extension) ([1.3.0](https://github.com/patchlevel/event-sourcing-phpstan-extension/releases/tag/1.3.0), 3 days ago) - phpstan extension for event-sourcing library.
+- [patchlevel/event-sourcing-phpstan-extension](https://github.com/patchlevel/event-sourcing-phpstan-extension) ([1.3.0](https://github.com/patchlevel/event-sourcing-phpstan-extension/releases/tag/1.3.0), 4 days ago) - phpstan extension for event-sourcing library.
 - [patchlevel/event-sourcing-bundle](https://github.com/patchlevel/event-sourcing-bundle) ([3.17.1](https://github.com/patchlevel/event-sourcing-bundle/releases/tag/3.17.1), 1 week ago) - An event sourcing bundle, complete with all the essential features, powered by the reliable Doctrine ecosystem and focused on developer experience.
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ([3.20.0](https://github.com/patchlevel/event-sourcing/releases/tag/3.20.0), 3 weeks ago) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.
 - [patchlevel/odm](https://github.com/patchlevel/odm) ([1.0.0](https://github.com/patchlevel/odm/releases/tag/1.0.0), 1 month ago) - Patchlevel ODM is a lightweight Object Document Mapper (ODM) for PHP that works with PostgreSQL (via patchlevel/rango) and MongoDB
